@@ -14,7 +14,7 @@ image:'https://media.licdn.com/dms/image/C4E03AQEqA0dv_86bnw/profile-displayphot
 
     id:2,
     name:'Luis Moncayo',
-    age:'44',
+    age:'45',
     image:'https://media.licdn.com/dms/image/C4E03AQEqA0dv_86bnw/profile-displayphoto-shrink_800_800/0/1517032424530?e=1721260800&v=beta&t=sGew3EokCrWrP1oMbiTGy5t60Ln_a97FqBGSzcY9zd8'
     
     
@@ -24,7 +24,7 @@ image:'https://media.licdn.com/dms/image/C4E03AQEqA0dv_86bnw/profile-displayphot
 
      id:3,
      name:'Luis Moncayo',
-    age:'44',
+    age:'49',
     image:'https://media.licdn.com/dms/image/C4E03AQEqA0dv_86bnw/profile-displayphoto-shrink_800_800/0/1517032424530?e=1721260800&v=beta&t=sGew3EokCrWrP1oMbiTGy5t60Ln_a97FqBGSzcY9zd8'
         
         
@@ -34,7 +34,7 @@ image:'https://media.licdn.com/dms/image/C4E03AQEqA0dv_86bnw/profile-displayphot
 
         id:4,
         name:'Luis Moncayo',
-       age:'44',
+       age:'8',
         image:'https://media.licdn.com/dms/image/C4E03AQEqA0dv_86bnw/profile-displayphoto-shrink_800_800/0/1517032424530?e=1721260800&v=beta&t=sGew3EokCrWrP1oMbiTGy5t60Ln_a97FqBGSzcY9zd8'
             
             
@@ -45,7 +45,7 @@ image:'https://media.licdn.com/dms/image/C4E03AQEqA0dv_86bnw/profile-displayphot
 
                 id:5,
                 name:'Luis Moncayo',
-                age:'44',
+                age:'15',
                 image:'https://media.licdn.com/dms/image/C4E03AQEqA0dv_86bnw/profile-displayphoto-shrink_800_800/0/1517032424530?e=1721260800&v=beta&t=sGew3EokCrWrP1oMbiTGy5t60Ln_a97FqBGSzcY9zd8'
                 
                 
